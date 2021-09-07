@@ -15,7 +15,7 @@ I am having overall 3.6 years of experience in writing web apps and Mobile Appli
 This the firebase Application with Firebase Authentication, Google Login and Social Login
 <br />
 https://github.com/vnrtumu/thumu
-<img src="./thumu.gif" height="250px" width= "400px" />
+<img src="./thumu.gif" width="250px" height= "400px" />
 
 #### Loan Book
 
