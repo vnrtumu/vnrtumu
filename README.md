@@ -9,19 +9,24 @@ I am having overall 3.6 years of experience in writing web apps and Mobile Appli
 
 <h4> Sample React Native projects: </h4>
 
+
 #### Firebase Social Connect Application
 
 This the firebase Application with Firebase Authentication, Google Login and Social Login
+<br />
 https://github.com/vnrtumu/thumu
+<img src="./thumu.gif" height="250px" width= "400px" />
 
 #### Loan Book
 
 This sample Application to track the loan lended or borrowed
+<br />
 https://github.com/vnrtumu/loanbook
 
 #### Restaurent Applications
 
 This is a food Delivery appliation for cloud kitchen.
+<br />
 https://github.com/vnrtumu/nawabs
 
 Apart from these i worked on few other applications like:
@@ -31,3 +36,7 @@ Apart from these i worked on few other applications like:
 #### Board Pointers Application
 
 #### Meals App
+
+#### Study Table Application
+
+#### Loan Darbar
