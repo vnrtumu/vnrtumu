@@ -15,19 +15,24 @@ I am having overall 3.6 years of experience in writing web apps and Mobile Appli
 This the firebase Application with Firebase Authentication, Google Login and Social Login
 <br />
 https://github.com/vnrtumu/thumu
-<img src="./thumu.gif" width="250px" height= "400px" />
+<br />
+<img src="./thumu.gif" width="250px" height= "450px" />
 
 #### Loan Book
 
 This sample Application to track the loan lended or borrowed
 <br />
 https://github.com/vnrtumu/loanbook
+<br />
+<img src="./loanbook.gif" width="250px" height= "450px" />
 
 #### Restaurent Applications
 
 This is a food Delivery appliation for cloud kitchen.
 <br />
 https://github.com/vnrtumu/nawabs
+<br />
+<img src="./nawabs.gif" width="250px" height= "450px" />
 
 Apart from these i worked on few other applications like:
 
