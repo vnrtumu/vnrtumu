@@ -45,3 +45,7 @@ Apart from these i worked on few other applications like:
 #### Study Table Application
 
 #### Loan Darbar
+
+#### Alberta App
+    I worked Few Screens and navigation with user permissions of Alberta App. 
+
